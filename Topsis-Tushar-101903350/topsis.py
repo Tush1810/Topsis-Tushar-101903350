@@ -8,10 +8,10 @@ from scipy.stats import rankdata
 
 try:
     # creating logger
-    logging.basicConfig(filename="101903350-logger-1.log",
+    logging.basicConfig(filename="101903350-logger.log",
                         format='%(asctime)s %(message)s',
                         filemode='w')
-    logger = logging.getLogger('101903350-1')
+    logger = logging.getLogger('101903350')
     logger.setLevel(logging.DEBUG)
 
     # for storing the number of arguments
