@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
     # How you named your package folder (MyLib)
-    name='Topsis-Tushar-101903350',
-    packages=['Topsis-Tushar-101903350'],   # Chose the same as "name"
+    name='Topsis-Tushar-101903350 0.3',
+    packages=['Topsis-Tushar-101903350 0.3'],   # Chose the same as "name"
     version='0.3',      # Start with a small number and increase it with every change you make
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
