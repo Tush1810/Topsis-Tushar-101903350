@@ -13,7 +13,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/Tush1810/Topsis-Tushar-101903350',
     # I explain this later on
-    download_url='https://github.com/Tush1810/Topsis-Tushar-101903350/archive/refs/tags/v_01.tar.gz',
+    download_url='https://github.com/Tush1810/Topsis-Tushar-101903350/archive/refs/tags/v_0.2.tar.gz',
     # Keywords that define your package best
     keywords=['Python', 'Topsis', '101903350'],
     install_requires=[            # I get to this in a second
